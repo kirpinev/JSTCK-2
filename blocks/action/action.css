@@ -1,0 +1,6 @@
+@import url(./__title/action__title.css);
+
+.action {
+    display: flex;
+    justify-content: center;
+}
