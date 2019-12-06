@@ -1,0 +1,6 @@
+.clients__area {
+    width: 1067px;
+    margin: 93px auto 0;
+    display: flex;
+    justify-content: space-around;
+}

@@ -1,0 +1,9 @@
+.client__image {
+    width: 59px;
+    height: 59px;
+    margin-right: 13px;
+    border-radius: 50%;
+    object-fit: cover;
+    object-position: center;
+    
+}

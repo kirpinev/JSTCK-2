@@ -1,0 +1,12 @@
+.client__review {
+    width: 367px;
+
+    font-family: "Avenir Next";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+
+    color: #898E93;
+    margin: 0;
+}

@@ -1,0 +1,17 @@
+@import url(./__container/clients__container.css);
+@import url(./__area/clients__area.css);
+@import url(./__client/clients__client.css);
+@import url(./__image/client-image.css);
+@import url(./__name/client__name.css);
+@import url(./__review/client__review.css);
+@import url(./__image/client__image.css);
+@import url(./__title/clients__title.css);
+@import url(./__wrapper/client__wrapper.css);
+
+.clients {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #FFFFFF;
+}

@@ -1,0 +1,11 @@
+.client__name {
+    width: 408px;
+    margin: 0;
+    font-family: "Avenir Next";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 25px;
+
+    color: #000000;
+}

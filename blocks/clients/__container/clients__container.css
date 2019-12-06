@@ -1,0 +1,7 @@
+.clients__container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 104px 0 104px 0; 
+    margin: auto;
+}
