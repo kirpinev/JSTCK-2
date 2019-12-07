@@ -1,0 +1,24 @@
+.input {
+    width: 218px;
+    height: 52px;
+    background: #FFFFFF;
+    border: 2px solid #E5E5E5;
+    box-sizing: border-box;
+    border-radius: 3px;
+
+    font-family: "Avenir Next";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: #979797;
+    padding: 15px;
+}
+
+.input:invalid:not(:placeholder-shown) {
+    border-color: red;
+}
+
+.input:valid:not(:placeholder-shown) {
+    border-color: rgb(12, 97, 187);
+}

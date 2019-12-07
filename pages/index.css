@@ -13,6 +13,9 @@
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/tariffs/tariffs.css);
 @import url(../blocks/individual/individual.css);
+@import url(../blocks/experience/experience.css);
+@import url(../blocks/business/business.css);
+@import url(../blocks/leadform/leadform.css);
 @import url(../blocks/company/company.css);
 @import url(../blocks/action/action.css);
 

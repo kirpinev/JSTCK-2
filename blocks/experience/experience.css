@@ -1,0 +1,12 @@
+@import url(./__container/experience__container.css);
+@import url(./__description/experience__description.css);
+@import url(./__image/experience__image.css);
+@import url(./__title/experience__title.css);
+
+.experience {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: #F2F5F8;
+}
